@@ -1,1 +1,1 @@
-# app.polychroma.linux
+# Polychroma TV for Linux
